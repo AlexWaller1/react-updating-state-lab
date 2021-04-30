@@ -11,3 +11,6 @@ ReactDOM.render(
   </div>,
   document.getElementById('global')
 );
+
+// DigitalClicker and YouTubeDebugger both components being called
+// in ReactDOM render

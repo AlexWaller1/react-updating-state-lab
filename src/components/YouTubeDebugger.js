@@ -69,3 +69,14 @@ class YouTubeDebugger extends React.Component {
 }
 
 export default YouTubeDebugger;
+
+/* 
+
+A Note on Classes in React
+
+Classes can be added as attributes in JSX, similar to HTML. The one difference to remember
+is that in JSX, we must use the className attribute, rather than class. Using class will
+cause an error while testing. Classes are used in this lab to make testing your
+solution a litter easier
+
+*/
